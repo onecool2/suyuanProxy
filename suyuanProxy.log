@@ -1,0 +1,1178 @@
+Side Car proxy start listening on 3333...
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3024}
+action: getInfo
+getInfo: map[action:getInfo qrcode:3024]
+action: 3024
+kv: title <nil>
+images: 0 
+-------------- {3024 0 [map[title:暂无法展示该数据信息]] [map[0:]] 489}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 1 [map[title:暂无法展示该数据信息]] [map[0:]] 491}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 2 [map[title:暂无法展示该数据信息]] [map[0:]] 492}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 3 [map[title:暂无法展示该数据信息]] [map[0:]] 494}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 4 [map[title:暂无法展示该数据信息]] [map[0:]] 496}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 5 [map[title:暂无法展示该数据信息]] [map[0:]] 498}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 6 [map[title:暂无法展示该数据信息]] [map[0:]] 499}
+++++++++++++++
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg
+-------------- {3024 7 [map[GOODS:GOODS] map[产品名称:宜娃饮用水] map[产地:意大利] map[溯源编码:3024]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg]] 512}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3022}
+action: getInfo
+getInfo: map[qrcode:3022 action:getInfo]
+action: 3022
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/0.jpg 
+-------------- {3022 0 [map[GOODS:GOODS] map[产品名称:吉谷仁五谷粥米] map[产地:吉林省] map[溯源编码:3022]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/0.jpg ]] 4608}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 
+-------------- {3022 1 [map[latitude: 43.50468 ] map[longitude: 124.82283 ] map[title:原材料环节（五）] map[名称:玉米] map[产地:吉林省公主岭市] map[供应商:吉林省恒昌农业开发有限公司] map[供应商资质证明:]] [map[0:]] 4651}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/6.jpg
+-------------- {3022 2 [map[latitude: 43.45970 ] map[longitude: 124.73028 ] map[title:原材料环节（四）] map[名称:碎大米] map[产地:吉林省公主岭市榆树村] map[供应商:春兴米业] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/6.jpg]] 4671}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/5.jpg
+-------------- {3022 3 [map[latitude: 45.00377 ] map[longitude: 124.04113 ] map[title:原材料环节（三）] map[名称:红小豆] map[产地:吉林省松原市乾安县] map[供应商:乾安县隆盛粮油有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/5.jpg]] 4704}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/4.jpg
+-------------- {3022 4 [map[latitude: 37.59461 ] map[longitude: 107.60126 ] map[title:原材料环节（二）] map[名称:荞麦] map[产地:陕西省榆林市定边县] map[供应商:赛雪粮油工贸有限责任公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/4.jpg]] 4720}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/3.jpg
+-------------- {3022 5 [map[latitude: 32.92985 ] map[longitude: 119.86124 ] map[title:原材料环节（一）] map[名称:熟紫薯粉、南瓜粉、红甜菜粉、猴头菇粉、胡萝卜粉、菠菜粉、芹菜粉] map[产地:江苏省兴化市垛田镇] map[供应商:江苏顶能食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/3.jpg]] 4731}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/1.jpg
+-------------- {3022 6 [map[latitude:43.50468] map[longitude:124.82283] map[title:生产环节] map[PD:1543852800] map[生产日期:2018年12月4日] map[Exp:62208000] map[保质期:720天] map[生产厂家:吉林省恒昌农业开发有限公司] map[地址:公主岭国家农业科技园区102线998公里处] map[法人:魏玉山] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/GoodsPreview/jiguren/1.jpg]] 4829}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {3022 7 [map[latitude: 43.50468 ] map[longitude: 124.82283 ] map[title:运输发货环节] map[EPS:EPS] map[承运公司:韵达快递] map[运输车辆类型:小型箱体货车] map[车牌号:吉CNG189] map[发货时间:2019年2月10日]] [map[0:]] 4771}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {3022 8 [map[latitude:39.92147] map[longitude:116.44310] map[title:运输收货环节] map[EPS:EPS] map[承运公司:韵达快递] map[运输车辆类型:小型箱体货车] map[车牌号:吉CNG189] map[到货时间:2019年2月12日]] [map[0:]] 4778}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {3022 9 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 83758}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3024}
+action: getInfo
+getInfo: map[action:getInfo qrcode:3024]
+action: 3024
+kv: title <nil>
+images: 0 
+-------------- {3024 0 [map[title:暂无法展示该数据信息]] [map[0:]] 489}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 1 [map[title:暂无法展示该数据信息]] [map[0:]] 491}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 2 [map[title:暂无法展示该数据信息]] [map[0:]] 492}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 3 [map[title:暂无法展示该数据信息]] [map[0:]] 494}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 4 [map[title:暂无法展示该数据信息]] [map[0:]] 496}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 5 [map[title:暂无法展示该数据信息]] [map[0:]] 498}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 6 [map[title:暂无法展示该数据信息]] [map[0:]] 499}
+++++++++++++++
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg
+-------------- {3024 7 [map[GOODS:GOODS] map[产品名称:宜娃饮用水] map[产地:意大利] map[溯源编码:3024]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg]] 512}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3025}
+action: getInfo
+getInfo: map[action:getInfo qrcode:3025]
+action: 3025
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/0.jpg
+-------------- {3025 0 [map[GOODS:GOODS] map[产品名称:燕纤坊牛奶燕麦餐（原味）] map[产地:内蒙古] map[溯源编码:3025]] [map[0:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/0.jpg]] 405}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/2.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/3.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/4.jpg
+-------------- {3025 1 [map[latitude:40.76014] map[longitude:112.37191] map[title:原材料环节] map[名称:燕麦] map[产地:内蒙古乌兰察布] map[供应商:内蒙古阴山优麦食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/2.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/3.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/4.jpg]] 402}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/1.jpg
+-------------- {3025 2 [map[latitude:41.28802] map[longitude:112.627675] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:31104000] map[保质期:360天] map[生产厂家:内蒙古阴山优麦食品有限公司] map[地址:察右中旗科布镇装备制造产业园区] map[法人:卢继兵] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/1.jpg]] 400}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/5.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/6.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/7.jpg
+images: 3 https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/8.jpg
+-------------- {3025 3 [map[latitude:30.27414] map[longitude:119.97892] map[title:成品质检环节] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/5.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/6.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/7.jpg] map[3:https://www.yysj.xyz/suyuan/images/dada/ProuctPictures/PID1002/8.jpg]] 395}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {3025 4 [map[latitude:41.28802] map[longitude:112.62767] map[title:运输发货环节] map[EPS:EPS] map[承运公司:中通物流] map[运输车辆类型:货车] map[发货时间:2019年6月10日]] [map[0:]] 390}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {3025 5 [map[latitude:39.92147] map[longitude:116.44310] map[title:运输收货环节] map[EPS:EPS] map[承运公司:中通物流] map[运输车辆类型:货车] map[到货时间:2019年6月12日]] [map[0:]] 387}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {3025 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 83740}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3024}
+action: getInfo
+getInfo: map[action:getInfo qrcode:3024]
+action: 3024
+kv: title <nil>
+images: 0 
+-------------- {3024 0 [map[title:暂无法展示该数据信息]] [map[0:]] 489}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 1 [map[title:暂无法展示该数据信息]] [map[0:]] 491}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 2 [map[title:暂无法展示该数据信息]] [map[0:]] 492}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 3 [map[title:暂无法展示该数据信息]] [map[0:]] 494}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 4 [map[title:暂无法展示该数据信息]] [map[0:]] 496}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 5 [map[title:暂无法展示该数据信息]] [map[0:]] 498}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 6 [map[title:暂无法展示该数据信息]] [map[0:]] 499}
+++++++++++++++
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg
+-------------- {3024 7 [map[GOODS:GOODS] map[产品名称:宜娃饮用水] map[产地:意大利] map[溯源编码:3024]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg]] 512}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":2000}
+action: getInfo
+getInfo: map[action:getInfo qrcode:2000]
+action: 2000
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg
+-------------- {2000 0 [map[GOODS:GOODS] map[产品名称:打打麻将甜辣鸭脖] map[产地:山东省寿光市] map[溯源编码:2000]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/1.jpg]] 188}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 名称 <nil>
+kv: 产地 <nil>
+kv: 喂养周期 <nil>
+kv: 出栏时间 <nil>
+kv: 供应商 <nil>
+kv: 供应商资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg
+-------------- {2000 1 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料饲养环节] map[名称:樱桃谷鸭] map[产地:山东潍坊] map[喂养周期:42天] map[出栏时间:2019年5月3日] map[供应商:潍坊金河新时代食品有限公司] map[供应商资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/supplier/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/supplier/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/supplier/3.jpg]] 230}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 原材料检验证号 <nil>
+kv: 原材料检验结果 <nil>
+kv: 原材料检疫证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg
+-------------- {2000 2 [map[latitude:36.70686] map[longitude:119.16176] map[title:原材料质检环节] map[原材料检验证号:Z19031217] map[原材料检验结果:合格] map[原材料检疫证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_materials/3.jpg]] 218}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: PD <nil>
+kv: 生产日期 <nil>
+kv: Exp <nil>
+kv: 保质期 <nil>
+kv: 生产厂家 <nil>
+kv: 地址 <nil>
+kv: 法人 <nil>
+kv: 资质证明 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/production/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/production/2.jpg
+-------------- {2000 3 [map[latitude:37.25990] map[longitude:118.88364] map[title:生产环节] map[PD:1559188800] map[生产日期:2019年5月30日] map[Exp:20736000] map[保质期:240天] map[生产厂家:山东周氏鸭食品有限公司] map[地址:山东省寿光市羊口镇胜利路5号] map[法人:宋秀鹏] map[资质证明:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/production/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/production/2.jpg]] 297}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 成品检验报告编号 <nil>
+kv: 检验结果 <nil>
+kv: 成品检测报告 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg
+images: 1 https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg
+images: 2 https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg
+-------------- {2000 4 [map[latitude:36.70686] map[longitude:119.16176] map[title:成品质检环节] map[成品检验报告编号:BE201802120120] map[检验结果:合格] map[成品检测报告:]] [map[0:https://www.yysj.xyz/suyuan/images/dada/inspection_food/1.jpg] map[1:https://www.yysj.xyz/suyuan/images/dada/inspection_food/2.jpg] map[2:https://www.yysj.xyz/suyuan/images/dada/inspection_food/3.jpg]] 312}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 发货时间 <nil>
+images: 0 
+-------------- {2000 5 [map[latitude:37.25990] map[longitude:118.88364] map[title:运输发货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[发货时间:2019年6月19日]] [map[0:]] 328}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: EPS <nil>
+kv: 承运公司 <nil>
+kv: 运输车辆类型 <nil>
+kv: 车牌号 <nil>
+kv: 到货时间 <nil>
+images: 0 
+-------------- {2000 6 [map[latitude:39.89480] map[longitude:116.32159] map[title:运输收货环节] map[EPS:EPS] map[承运公司:及时快递] map[运输车辆类型:大型箱体货车] map[车牌号:鲁GU8611] map[到货时间:2019年6月20日]] [map[0:]] 338}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 销售商名称 <nil>
+kv: 销售商地址 <nil>
+kv: 邮编 <nil>
+images: 0 
+-------------- {2000 7 [map[latitude:39.89480] map[longitude:116.32159] map[title:销售商信息] map[销售商名称:北京牧家食品有限公司] map[销售商地址:国投广场3号楼11层1011室] map[邮编:100087]] [map[0:]] 7015}
+++++++++++++++
+kv: latitude <nil>
+kv: longitude <nil>
+kv: title <nil>
+kv: 货柜名称 <nil>
+kv: 商品名称 <nil>
+kv: 操作人员 <nil>
+kv: 上架日期 <nil>
+images: 0 
+-------------- {2000 8 [map[latitude:39.89480] map[longitude:116.32159] map[title:终端销售环节] map[货柜名称:国投1号柜] map[商品名称:打打麻将甜辣鸭脖] map[操作人员:牧家科技] map[上架日期:2019年6月21日 18:00:00]] [map[0:]] 7068}
+++++++++++++++
+end handlerHttp
+{"action":"getInfo","qrcode":3024}
+action: getInfo
+getInfo: map[action:getInfo qrcode:3024]
+action: 3024
+kv: title <nil>
+images: 0 
+-------------- {3024 0 [map[title:暂无法展示该数据信息]] [map[0:]] 489}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 1 [map[title:暂无法展示该数据信息]] [map[0:]] 491}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 2 [map[title:暂无法展示该数据信息]] [map[0:]] 492}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 3 [map[title:暂无法展示该数据信息]] [map[0:]] 494}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 4 [map[title:暂无法展示该数据信息]] [map[0:]] 496}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 5 [map[title:暂无法展示该数据信息]] [map[0:]] 498}
+++++++++++++++
+kv: title <nil>
+images: 0 
+-------------- {3024 6 [map[title:暂无法展示该数据信息]] [map[0:]] 499}
+++++++++++++++
+kv: GOODS <nil>
+kv: 产品名称 <nil>
+kv: 产地 <nil>
+kv: 溯源编码 <nil>
+images: 0 https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg
+-------------- {3024 7 [map[GOODS:GOODS] map[产品名称:宜娃饮用水] map[产地:意大利] map[溯源编码:3024]] [map[0:https://www.yysj.xyz/suyuan/images/dada/goods/4.jpg]] 512}
+++++++++++++++
+end handlerHttp

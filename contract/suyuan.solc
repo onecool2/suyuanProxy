@@ -1,0 +1,120 @@
+pragma solidity ^0.4.25;
+contract Ownable {
+
+
+    address public owner;
+    mapping (address=> bool) public mapWriter;
+
+    event OwnershipRenounced(address indexed previousOwner);
+    event OwnershipTransferred(
+        address indexed previousOwner,
+        address indexed newOwner
+    );
+
+  /**
+   * @dev The Ownable constructor sets the original `owner` of the contract to the sender
+   * account.
+   */
+    constructor() public {
+        owner = msg.sender;
+    }
+
+  /**
+   * @dev Throws if called by any account other than the owner.
+   */
+    modifier onlyOwner() {
+        require(msg.sender == owner);
+        _;
+    }
+
+    modifier onlyWriter() {
+        require(mapWriter[msg.sender]);
+        _;
+    }
+
+    function addWriter(address writer) public onlyOwner {
+        mapWriter[writer] = true;
+    }
+
+  /**
+   * @dev Allows the current owner to relinquish control of the contract.
+   * @notice Renouncing to ownership will leave the contract without an owner.
+   * It will not be possible to call the functions with the `onlyOwner`
+   * modifier anymore.
+   */
+
+    function renounceOwnership() public onlyOwner {
+        emit OwnershipRenounced(owner);
+        owner = address(0);
+    }
+
+
+  /**
+   * @dev Allows the current owner to transfer control of the contract to a newOwner.
+   * @param _newOwner The address to transfer ownership to.
+   */
+    function transferOwnership(address _newOwner) public onlyOwner {
+        _transferOwnership(_newOwner);
+    }
+
+  /**
+   * @dev Transfers control of the contract to a newOwner.
+   * @param _newOwner The address to transfer ownership to.
+   */
+    function _transferOwnership(address _newOwner) internal {
+        require(_newOwner != address(0));
+        emit OwnershipTransferred(owner, _newOwner);
+        owner = _newOwner;
+    }
+}
+
+contract suyuanContract is Ownable {
+
+  event updateEvent (string table, uint256 index, string ss);
+  event item (string key,string value);
+  event list1 (string key,string value);
+  event inserted (string listname, string list);
+
+  string DELIM = "-";
+
+  struct product {
+/************ 产品信息 *****************/
+      string infos;
+      string images;
+      uint256 qrcode;
+      uint256 index;
+      uint256 blocknumber;
+  }
+   product[20][1000000000]    productArray;
+  //mapping (uint256 => yg_terminal) yg_array;
+
+    uint public trace_index;
+
+    function set_info(uint256 qrcode, uint256 fn_name, string infos, string images)   public onlyWriter returns(uint256, uint256){
+
+        productArray[qrcode][fn_name].qrcode = qrcode;
+        productArray[qrcode][fn_name].infos = infos;
+        productArray[qrcode][fn_name].images = images;
+        productArray[qrcode][fn_name].blocknumber = block.number;
+
+        trace_index++;
+        return (qrcode, fn_name);
+    }
+
+ 
+
+    function get_info(uint256 qrcode, uint256 fn_name)  view public returns(uint256, uint256, string infos, uint256 blocknumber, string images) {
+
+        infos =  productArray[qrcode][fn_name].infos;
+        images = productArray[qrcode][fn_name].images;
+        blocknumber =  productArray[qrcode][fn_name].blocknumber;
+        qrcode = productArray[qrcode][fn_name].qrcode;
+
+        return (qrcode, fn_name, infos, blocknumber, images);
+    }
+
+    function get_block()  view public returns(uint256 block_hash, bytes32, bytes32) {
+        return ((block.number - 1), blockhash(block.number - 1), blockhash(block.number - 2));
+    }
+
+}
